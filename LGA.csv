@@ -1,0 +1,510 @@
+lga_name,state,lga_code
+Wagga Wagga,NSW,1
+Hawkesbury,NSW,2
+Northern Midlands,TAS,3
+Armidale,NSW,4
+Lockyer Valley,QLD,5
+Wakefield,SA,6
+Southern Downs,QLD,7
+Brighton,TAS,8
+West Tamar,TAS,9
+Mid Murray,SA,10
+Blue Mountains,NSW,11
+Upper Lachlan,NSW,12
+Wattle Range,SA,13
+Cairns,QLD,14
+Wollongong,NSW,15
+Penrith,NSW,16
+Upper Hunter,NSW,17
+South Burnett,QLD,18
+Mid-Western,NSW,19
+Canterbury-Bankstown,NSW,20
+Greater Hume,NSW,21
+Barossa,SA,22
+Port Macquarie-Hastings,NSW,23
+Mackay,QLD,24
+Douglas,QLD,25
+Yankalilla,SA,26
+Logan,QLD,27
+Dorset,TAS,28
+Nambucca Valley,NSW,29
+Narromine,NSW,30
+Fraser Coast,QLD,31
+Unincorporated SA,SA,32
+Shellharbour,NSW,33
+Narrabri,NSW,34
+Cook,QLD,35
+Tenterfield,NSW,36
+Central Coast (NSW),NSW,37
+Tamworth,NSW,38
+Hilltops,NSW,39
+Forbes,NSW,40
+Toowoomba,QLD,41
+Lake Macquarie,NSW,42
+Livingstone,QLD,43
+Blacktown,NSW,44
+Balranald,NSW,45
+Lockhart River,QLD,46
+Light,SA,47
+Cassowary Coast,QLD,48
+Tumby Bay,SA,49
+Liverpool,NSW,50
+Cumberland,NSW,51
+Muswellbrook,NSW,52
+Moreton Bay,QLD,53
+Ballina,NSW,54
+Kyogle,NSW,55
+Bundaberg,QLD,56
+Melbourne,VIC,57
+Brisbane,QLD,58
+Snowy Valleys,NSW,59
+Whitsunday,QLD,60
+Fairfield,NSW,61
+Yass Valley,NSW,62
+Central Highlands (Qld),QLD,63
+The Hills,NSW,64
+Salisbury,SA,65
+Port Stephens,NSW,66
+Macedon Ranges,VIC,67
+Moyne,VIC,68
+Cardinia,VIC,69
+East Gippsland,VIC,70
+Hornsby,NSW,71
+Whittlesea,VIC,72
+Mareeba,QLD,73
+Mid-Coast,NSW,74
+Rockhampton,QLD,75
+Ipswich,QLD,76
+Glenelg,VIC,77
+Western Downs,QLD,78
+Port Adelaide Enfield,SA,79
+Cabonne,NSW,80
+Gold Coast,QLD,81
+Unincorporated ACT,ACT,82
+Frankston,VIC,83
+Moree Plains,NSW,84
+Parramatta,NSW,85
+Meander Valley,TAS,86
+Queanbeyan-Palerang,NSW,87
+Snowy Monaro,NSW,88
+Federation,NSW,89
+Cowra,NSW,90
+Goulburn Mulwaree,NSW,91
+Gympie,QLD,92
+Willoughby,NSW,93
+Shoalhaven,NSW,94
+Greater Bendigo,VIC,95
+Nillumbik,VIC,96
+Tatiara,SA,97
+Tweed,NSW,98
+Ararat,VIC,99
+Colac Otway,VIC,100
+McKinlay,QLD,101
+Singleton,NSW,102
+Gladstone,QLD,103
+Lithgow,NSW,104
+Campbelltown (NSW),NSW,105
+Sunshine Coast,QLD,106
+Warrumbungle,NSW,107
+Noosa,QLD,108
+Gawler,SA,109
+Alpine,VIC,110
+Baw Baw,VIC,111
+Isaac,QLD,112
+Maranoa,QLD,113
+Southern Grampians,VIC,114
+Cessnock,NSW,115
+Scenic Rim,QLD,116
+Somerset,QLD,117
+Hinchinbrook,QLD,118
+Playford,SA,119
+Cobar,NSW,120
+Adelaide Hills,SA,121
+Bega Valley,NSW,122
+Tea Tree Gully,SA,123
+Kiama,NSW,124
+Wollondilly,NSW,125
+Casey,VIC,126
+Northern Areas,SA,127
+Tablelands,QLD,128
+Sydney,NSW,129
+Murrindindi,VIC,130
+Albury,NSW,131
+Boroondara,VIC,132
+Redland,QLD,133
+South Gippsland,VIC,134
+Yarra Ranges,VIC,135
+Surf Coast,VIC,136
+Mount Barker,SA,137
+Maitland,NSW,138
+Hobart,TAS,139
+Mitcham,SA,140
+Clarence Valley,NSW,141
+Adelaide,SA,142
+Lismore,NSW,143
+Greater Shepparton,VIC,144
+Merri-bek,VIC,145
+Narrandera,NSW,146
+Huon Valley,TAS,147
+Griffith,NSW,148
+Wodonga,VIC,149
+Darebin,VIC,150
+Ballarat,VIC,151
+Wingecarribee,NSW,152
+Maroondah,VIC,153
+North Burnett,QLD,154
+Mornington Peninsula,VIC,155
+Unley,SA,156
+Alexandrina,SA,157
+Melton,VIC,158
+Burdekin,QLD,159
+Knox,VIC,160
+Monash,VIC,161
+Unincorporated NSW,NSW,162
+Barcaldine,QLD,163
+Wyndham,VIC,164
+Glen Innes Severn,NSW,165
+Northern Beaches,NSW,166
+Townsville,QLD,167
+Golden Plains,VIC,168
+Clarence,TAS,169
+Georges River,NSW,170
+Kingston (Vic.),VIC,171
+Manningham,VIC,172
+Bathurst,NSW,173
+Wudinna,SA,174
+Inverell,NSW,175
+Brimbank,VIC,176
+Charles Sturt,SA,177
+Flinders (Tas.),TAS,178
+Burnie,TAS,179
+Dubbo,NSW,180
+Greater Geelong,VIC,181
+Mitchell,VIC,182
+Onkaparinga,SA,183
+Stonnington,VIC,184
+Launceston,TAS,185
+Indigo,VIC,186
+Yarra,VIC,187
+Port Phillip,VIC,188
+Waratah-Wynyard,TAS,189
+Campaspe,VIC,190
+Barkly,NT,191
+Blayney,NSW,192
+Campbelltown (SA),SA,193
+Latrobe (Vic.),VIC,194
+Palmerston,NT,195
+Gunnedah,NSW,196
+Break O'Day,TAS,197
+Buloke,VIC,198
+West Wimmera,VIC,199
+Ku-ring-gai,NSW,200
+Warrnambool,VIC,201
+Berrigan,NSW,202
+Warren,NSW,203
+Moira,VIC,204
+Berri Barmera,SA,205
+Moonee Valley,VIC,206
+Litchfield,NT,207
+Greater Dandenong,VIC,208
+Inner West,NSW,209
+Whyalla,SA,210
+Mount Isa,QLD,211
+Maribyrnong,VIC,212
+Marion,SA,213
+Mildura,VIC,214
+Mansfield,VIC,215
+Charters Towers,QLD,216
+Richmond Valley,NSW,217
+Sutherland,NSW,218
+Hume,VIC,219
+Newcastle,NSW,220
+Glen Eira,VIC,221
+Yarriambiack,VIC,222
+Pyrenees,VIC,223
+Strathfield,NSW,224
+Bayside (NSW),NSW,225
+Coffs Harbour,NSW,226
+Murray Bridge,SA,227
+Murray River,NSW,228
+Camden,NSW,229
+Glenorchy,TAS,230
+Randwick,NSW,231
+Hunters Hill,NSW,232
+Wangaratta,VIC,233
+Parkes,NSW,234
+Byron,NSW,235
+Moorabool,VIC,236
+Benalla,VIC,237
+Bellingen,NSW,238
+Wellington,VIC,239
+Edward River,NSW,240
+Coorong,SA,241
+George Town,TAS,242
+Ryde,NSW,243
+Bass Coast,VIC,244
+Richmond,QLD,245
+Strathbogie,VIC,246
+Hay,NSW,247
+Weddin,NSW,248
+Lachlan,NSW,249
+Waverley,NSW,250
+Northern Grampians,VIC,251
+Horsham,VIC,252
+Adelaide Plains,SA,253
+Mount Remarkable,SA,254
+Gilgandra,NSW,255
+Goondiwindi,QLD,256
+Clare and Gilbert Valleys,SA,257
+West Torrens,SA,258
+Whitehorse,VIC,259
+Cloncurry,QLD,260
+Sorell,TAS,261
+Towong,VIC,262
+Grant,SA,263
+Hepburn,VIC,264
+Circular Head,TAS,265
+Swan Hill,VIC,266
+Murrumbidgee,NSW,267
+Orange,NSW,268
+Walkerville,SA,269
+Wentworth,NSW,270
+Tasman,TAS,271
+Latrobe (Tas.),TAS,272
+Port Augusta,SA,273
+Liverpool Plains,NSW,274
+Banana,QLD,275
+Eurobodalla,NSW,276
+Barunga West,SA,277
+West Coast,TAS,278
+Etheridge,QLD,279
+Bland,NSW,280
+Oberon,NSW,281
+Corangamite,VIC,282
+Yorke Peninsula,SA,283
+Derwent Valley,TAS,284
+Port Pirie,SA,285
+Devonport,TAS,286
+Flinders (Qld),QLD,287
+Burwood,NSW,288
+Alice Springs,NT,289
+Victoria Daly,NT,290
+Gwydir,NSW,291
+Banyule,VIC,292
+Coonamble,NSW,293
+Kempsey,NSW,294
+Carrathool,NSW,295
+Barcoo,QLD,296
+Hobsons Bay,VIC,297
+Temora,NSW,298
+Karoonda East Murray,SA,299
+Unincorporated Vic,VIC,300
+Gannawarra,VIC,301
+Ceduna,SA,302
+Darwin,NT,303
+Central Desert,NT,304
+Murweh,QLD,305
+Renmark Paringa,SA,306
+Loxton Waikerie,SA,307
+Central Coast (Tas.),TAS,308
+Norwood Payneham and St Peters,SA,309
+MacDonnell,NT,310
+Leeton,NSW,311
+Kingborough,TAS,312
+Copper Coast,SA,313
+Lockhart,NSW,314
+Naracoorte Lucindale,SA,315
+Southern Mallee,SA,316
+Kentish,TAS,317
+Goyder,SA,318
+Flinders Ranges,SA,319
+Loddon,VIC,320
+Junee,NSW,321
+Victor Harbor,SA,322
+Burnside,SA,323
+Coomalie ,NT,324
+Mosman,NSW,325
+Glamorgan-Spring Bay,TAS,326
+Southern Midlands,TAS,327
+Mount Alexander,VIC,328
+North Sydney,NSW,329
+Roper Gulf,NT,330
+Woollahra,NSW,331
+Prospect,SA,332
+Northern Peninsula Area,QLD,333
+Unincorporated NT,NT,334
+Orroroo Carrieton,SA,335
+Central Goldfields,VIC,336
+Central Darling,NSW,337
+Balonne,QLD,338
+Walgett,NSW,339
+Coolamon,NSW,340
+Bulloo,QLD,341
+Lane Cove,NSW,342
+Walcha,NSW,343
+Bogan,NSW,344
+Cleve,SA,345
+West Arnhem,NT,346
+King Island,TAS,347
+Kangaroo Island,SA,348
+Uralla,NSW,349
+Holdfast Bay,SA,350
+Brewarrina,NSW,351
+East Arnhem,NT,352
+Port Lincoln,SA,353
+Carpentaria,QLD,354
+Longreach,QLD,355
+Lower Eyre Peninsula,SA,356
+York,WA,357
+Rockingham,WA,358
+Plantagenet,WA,359
+Kwinana,WA,360
+Murray,WA,361
+Dumbleyung,WA,362
+Port Hedland,WA,363
+Stirling,WA,364
+Robe,SA,365
+Cambridge,WA,366
+Wanneroo,WA,367
+Gosnells,WA,368
+Dandaragan,WA,369
+Serpentine-Jarrahdale,WA,370
+Mandurah,WA,371
+Woodanilling,WA,372
+Dowerin,WA,373
+Kalgoorlie-Boulder,WA,374
+Greater Geraldton,WA,375
+Harvey,WA,376
+Bayswater,WA,377
+Swan,WA,378
+Doomadgee,QLD,379
+Croydon,QLD,380
+Albany,WA,381
+Central Highlands (Tas.),TAS,382
+Chittering,WA,383
+Canning,WA,384
+Perenjori,WA,385
+Mount Magnet,WA,386
+Donnybrook-Balingup,WA,387
+Hope Vale,QLD,388
+Augusta Margaret River,WA,389
+Vincent,WA,390
+Wickepin,WA,391
+Cockburn,WA,392
+Victoria Park,WA,393
+Armadale,WA,394
+Bunbury,WA,395
+Gingin,WA,396
+Moora,WA,397
+Perth,WA,398
+Busselton,WA,399
+Williams,WA,400
+Quilpie,QLD,401
+Kojonup,WA,402
+Mount Marshall,WA,403
+Kingston (SA),SA,404
+Karratha,WA,405
+Elliston,SA,406
+Coolgardie,WA,407
+Derby-West Kimberley,WA,408
+Mundaring,WA,409
+Belmont,WA,410
+Nungarin,WA,411
+Bayside (Vic.),VIC,412
+Northam,WA,413
+Melville,WA,414
+Bassendean,WA,415
+Yilgarn,WA,416
+Broome,WA,417
+Chapman Valley,WA,418
+Broomehill-Tambellup,WA,419
+Meekatharra,WA,420
+Esperance,WA,421
+Capel,WA,422
+Dundas,WA,423
+Lake Grace,WA,424
+Dardanup,WA,425
+Kondinin,WA,426
+Kent,WA,427
+Canada Bay,NSW,428
+Wagin,WA,429
+Manjimup,WA,430
+Denmark,WA,431
+Boddington,WA,432
+Bruce Rock,WA,433
+Kulin,WA,434
+Cuballing,WA,435
+Dungog,NSW,436
+Carnarvon,WA,437
+Hindmarsh,VIC,438
+Wyndham-East Kimberley,WA,439
+Beverley,WA,440
+Ravensthorpe,WA,441
+Joondalup,WA,442
+Coober Pedy,SA,443
+Katherine,NT,444
+Dalwallinu,WA,445
+Gnowangerup,WA,446
+Wongan-Ballidu,WA,447
+Collie,WA,448
+Cootamundra-Gundagai,NSW,449
+East Pilbara,WA,450
+Menzies,WA,451
+Halls Creek,WA,452
+Irwin,WA,453
+Yarrabah,QLD,454
+Pingelly,WA,455
+Cue,WA,456
+Kalamunda,WA,457
+Quairading,WA,458
+Mornington,QLD,459
+Wandering,WA,460
+Nannup,WA,461
+Broken Hill,NSW,462
+Ngaanyatjarraku,WA,463
+Corrigin,WA,464
+Anangu Pitjantjatjara Yankunytjatjara,SA,465
+Fremantle,WA,466
+Toodyay,WA,467
+Streaky Bay,SA,468
+Victoria Plains,WA,469
+Northampton,WA,470
+Bridgetown-Greenbushes,WA,471
+Kimba,SA,472
+Katanning,WA,473
+Jerramungup,WA,474
+Carnamah,WA,475
+Ashburton,WA,476
+West Arthur,WA,477
+Mount Gambier,SA,478
+South Perth,WA,479
+Brookton,WA,480
+Burke,QLD,481
+Nedlands,WA,482
+Franklin Harbour,SA,483
+Waroona,WA,484
+Cunderdin,WA,485
+Cranbrook,WA,486
+Kellerberrin,WA,487
+Wagait,NT,488
+Weipa,QLD,489
+Pormpuraaw,QLD,490
+Bourke,NSW,491
+Palm Island,QLD,492
+West Daly,NT,493
+Mosman Park,WA,494
+Narrogin,WA,495
+Merredin,WA,496
+Westonia,WA,497
+Morawa,WA,498
+Claremont,WA,499
+Mingenew,WA,500
+Goomalling,WA,501
+Subiaco,WA,502
+Trayning,WA,503
+Shark Bay,WA,504
+Exmouth,WA,505
+Sandstone,WA,506
+Boyup Brook,WA,507
+Cottesloe ,WA,508
+Leonora,WA,509
